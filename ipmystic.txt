@@ -1,1 +1,1 @@
-localhost:25565
+jogar.mysticcraft.com.br
