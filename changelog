@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChangeLogs da AntiHack</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>ChangeLogs da AntiHack</h1>
+        <div class="changelogs">
+            <ul>
+                <li><strong>ChangeLog 07/04/2024:</strong> Alteração na Modpack</li>:</strong> Correção de Alocação de Memória</li>:</strong> Melhoria nos AntiCheat</li>:</strong> Melhorias no Desempenho</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
