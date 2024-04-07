@@ -9,7 +9,7 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #fff; /* Cor de fundo para o container */
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -45,7 +45,7 @@ li strong {
     color: #007bff;
 }
 
-/* estilo hover */
+/* Estilo de hover para realçar os itens da ChangeLog */
 li:hover {
     background-color: #f0f0f0;
     transition: background-color 0.3s ease;
